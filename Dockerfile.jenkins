@@ -1,0 +1,2 @@
+FROM jenkins/jenkins:lts
+# Configuración adicional para Jenkins si es necesario
